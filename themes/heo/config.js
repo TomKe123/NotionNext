@@ -1,12 +1,14 @@
 const CONFIG = {
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-08-03', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-08-03', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog.tomsite.us.kg' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '手机端听音乐点我前往', url: 'https://m.music.tomsite.us.kg' },
+    { title: 'PC端最佳音乐体验点我前往',url: 'https://music.tomsite.us.kg' },
+    { title: '导航站点我前往',url: 'https://nav.tomsite.us.kg' }
   ],
 
   // 英雄区左右侧组件颠倒位置
