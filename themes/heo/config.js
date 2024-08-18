@@ -21,7 +21,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与新鲜技术',
   HEO_HERO_TITLE_3: 'BLOG.TOMSITE.US.KG',
   HEO_HERO_TITLE_4: '新版博客上线',
-  HEO_HERO_TITLE_5: 'HEO主题 简约而时尚',
+  HEO_HERO_TITLE_5: 'HEO主题 简约而现代',
   HEO_HERO_TITLE_LINK: 'https://blog.tomsite.us.kg.com',
 
   // 英雄区显示三个置顶分类
