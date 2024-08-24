@@ -159,9 +159,6 @@ const GlobalHead = props => {
         </>
       )}
       {children}
-       
-       <meta name="msvalidate.01" content="0B44485B2FD1BCBFDC5518081E5415E4" />
-      
     </Head>
   )
 }
