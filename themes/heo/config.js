@@ -4,12 +4,14 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-08-03', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客', url: 'https://blog.tomsite.us.kg' },
+    { title: '手机端听音乐点我前往', url: 'https://m.music.tomsite.us.kg' },
+    { title: 'PC端最佳音乐体验点我前往',url: 'https://music.tomsite.us.kg' },
+    { title: '导航站点我前往',url: 'https://nav.tomsite.us.kg' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,12 +20,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '分享个人',
+  HEO_HERO_TITLE_2: '与新鲜技术',
+  HEO_HERO_TITLE_3: 'BLOG.TOMSITE.US.KG',
+  HEO_HERO_TITLE_4: '新版博客上线',
+  HEO_HERO_TITLE_5: 'HEO主题 简约而现代',
+  HEO_HERO_TITLE_LINK: 'https://blog.tomsite.us.kg/changelog',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
